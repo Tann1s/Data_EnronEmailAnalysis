@@ -1,0 +1,177 @@
+### EVIDENCE 1
+
+The email explicitly mentions financial statement inaccuracies and improper accounting practices affecting substantial earnings figures. This constitutes direct evidence of accounting irregularities and potential financial misconduct.
+Here's why:
+Identifies improper inclusion/exclusion of certain companies affecting earnings by $192MM.
+Highlights inaccuracies in the Hyperion legal structure reflecting Enron's actual ownership.
+
+Email itself:
+
+RE: NYMEX F/S
+At: 2000-06-30 14:49:00+00:00
+From: darin.talley@enron.com
+To: tana.jones@enron.com  mark.jones@enron.com  julie.gartner@enron.com  mark.ng@enron.com  faith.killen@enron.com  johnson.leo@enron.com  gilda.bartz@enron.com
+CC: georgeanne.hodges@enron.com  mark.frank@enron.com  wes.colwell@enron.com  trey.hardy@enron.com  patricia.anderson@enron.com
+BCC: georgeanne.hodges@enron.com  mark.frank@enron.com  wes.colwell@enron.com  trey.hardy@enron.com  patricia.anderson@enron.com
+Body:
+ENA BA&R is currently in the process of preparing the 12/31/99 financial 
+statements to be filed with the NYMEX by July 21st in order to keep our 
+trading seat.  These financial statements reflect all of the North America 
+trading operations.  ECTEG1 is ENA's legal rollup within Hyperion and should 
+reflect all of the North American trading (i.e., price risk management) 
+activity.  Therefore, Consolidated Reporting, with the assistance of Trading 
+Accounting and Tax, prepared the financial statements with ECTEG1 activity.  
+These financial statements are complete and ready for BA&R management review 
+and reflect $722MM in earnings.
+
+However, as of 6/29, we were notified by the Tax department that three 
+companies were included in ECTEG1 as of 12/31/99 that were no longer legal 
+owned by ENA.  In addition, there was one company that became ENA owned 
+during 1999.  The companies are as follows:
+
+Improperly Included:
+ECM Treasury Consolidated  (Company 969)
+ECT Retail Services    (Company 1Q6)
+ECT Power Marketing, Inc. - Retail  (Company 890)
+
+Improperly Excluded:
+Enron Gas Liquids, Inc.    (Company 104)
+
+I have corresponded with Tana Jones from the Legal department, Johnson Leo in 
+Corporate Reporting, and Julie Gartner from the Tax department to determine if
+the financial statements that we prepared reflected accurate and complete 
+North America trading activity.  These discussions confirmed that the 
+Hyperion legal 
+structure was not accurately reflecting ENA's actual legal ownership.  In 
+addition, the three companies have $192MM in trading activity income that 
+would be
+removed from the bottom line.  This activity should probably be reported to 
+the NYMEX (regardless of legal structure) as it represents price risk 
+management
+activity.
+
+The primary issue is accuracy of the financial statements.  We are prepared 
+to have to restate the compiled financials as soon as we are notified where
+we can retrieve accurate ledger information.  The other main issue is 
+timing.  We need to file these financial statements no later than July 21st.  
+Before that can
+happen they need to be reviewed by several levels of management in several 
+departments.
+
+The Legal department is currently reviewing the NYMEX requirements in order 
+to determine the proper activity to report.  As soon as that is determined, 
+we can
+proceed with data retrieval.
+
+Please contact me if have any questions, concerns or comments.
+
+DT
+
+### EVIDENCE 2
+
+The email delves into adjusting accounting methods and balance sheet entries to reflect desired financial outcomes.
+Here's why:
+Revenue Recognition Methods: Shifting between accounting methods can be a method to manipulate earnings and tax liabilities.
+Deferred Profits/Liabilities: Introducing or adjusting liabilities to offset changes in revenue recognition can obscure the true financial position
+
+Email itself:
+
+RE: Re: Q2 for Patten Case
+At: 2000-09-17 20:18:00+00:00
+From: jeff.dasovich@enron.com
+To: kkupiecki@arpartners.com
+CC: nan
+BCC: nan
+Body:
+Hey, nice spreadsheet.  Two minor questions: 
+
+1) Isn't the provision for taxes on the income statement actually the taxes 
+on the 'income' they made from using the sales method (equal to 46%), rather 
+than what they pay will actually pay the IRS under the installment method?  I 
+think the notes show how instead of paying the 4.1$ based on their recognized 
+income, they pay some itty bitty amount based on installment.  If so, I think 
+they actually get a 46%  tax break on the 1 million and change that they lose 
+using a cash basis.  Still a loss, just not so big.  Anyway, I'm not sure if 
+I'm thinking straight on this, but that's how I read the numbers.
+
+2) Does the balance sheet have to change a little?  For example, does 
+shareholder equity change since the income that goes to retained earnings is 
+now a loss, rather than a gain?  Also, if revenue is recognized on a cash 
+basis and is now much smaller, there needs to be another liability to equal 
+out the decrease in revenues with the still large notes receivables on the 
+asset side (as you note in the answer the notes recievables stays the same).  
+Seems like they might need a liability like "deferred profits" or some such 
+thing, such that the ["deferred profits" +  revenues (recognized on cash 
+basis)] = notes receivables.
+
+Anyway, I may not have this right, but thought I'd bring it up to see what 
+you think.
+
+Best,
+Jeff
+
+
+###  EVIDENCE 3
+The strategy to accelerate expenses to a prior fiscal year to utilize non-recurring earnings directly points to financial manipulation aimed at enhancing reported earnings and obscuring true financial obligations.
+Here's why:
+Identifying Write-offs:
+Non-Recurring Earnings Utilization: The email mentions identifying potential write-offs to leverage non-recurring earnings at the corporate level.
+Accelerating Expenses:
+Timing Adjustments: Suggesting the acceleration of certain expenses (e.g., DOT safety user fees and payments to Mobil) from 2001 to 2000 to manipulate financial visibility.
+Visibility Minimization: By moving expenses to a different fiscal year, the intent is likely to present a healthier financial state for 2000.
+
+Email itself:
+
+RE: Potential Write-offs
+At: 2000-08-15 08:06:00+00:00
+From: bob.chandler@enron.com
+To: rod.hayslett@enron.com
+CC: harry.walters@enron.com  elaine.concklin@enron.com  steve.kleb@enron.com  allen.joe@enron.com  aurora.dimacali@enron.com  james.centilli@enron.com
+BCC: harry.walters@enron.com  elaine.concklin@enron.com  steve.kleb@enron.com  allen.joe@enron.com  aurora.dimacali@enron.com  james.centilli@enron.com
+Body:
+This is a follow-up on our efforts to identify potential write-offs in 2000 
+to utilize the possible availability of non-recurring earnings at the 
+Corporate level.  Attached are spreadsheets for the 2nd quarter noteholders 
+reports balance sheets, including detailed breakdowns of balance sheet 
+items.  We reviewed these schedules for possible additional write-off 
+candidates.  This review confirmed that the big items had already been 
+identified (reg assets and south-end impairment reserve).  However, reviewing 
+the spreadsheets reminded us that we have DOT safety user fees due in 
+December (~$1.1MM) and a $1.5MM annual payment to Mobil due by 1/1/2001.  
+While both of these items would more appropriately be charged to expense in 
+2001, we could probably accelerate them into 2000 without too much visibility.
+
+###  EVIDENCE 4
+Adjusting the language around accounting and earnings reporting suggests efforts to present financial information in a specific light, potentially obscuring unfavorable details or presenting earnings more favorably.
+Here's why:
+Language Changes: The email discusses modifying the language in a memo related to accounting issues and earnings reporting.
+Coordination with Accounting Officer: Mentions coordination with Rick Causey, Enron's Chief Accounting Officer, indicating internal adjustments to financial reporting.
+
+
+Email itself:
+
+RE: Incorporating comments from Rick Causey
+At: 2000-08-16 16:29:00+00:00
+From: sally.beck@enron.com
+To: cathy.phillips@enron.com
+CC: nan
+BCC: nan
+Body:
+Cathy:  slight wording change from Rick Causey:  add words at beginning of 
+third sentence in italics and drop the phrase "on accounting issues and 
+reporting earnings" at the end of that third sentence.  Thanks.  Clear as 
+mud?  --Sally
+
+
+ Brent Price will be joining Enron Global Markets as Vice President of 
+Operations and Chief Accounting Officer.  He will report to the EGM Office of 
+the Chairman, and to Sally Beck, Vice President of Global Risk Management 
+Operations.  In his role as Chief Accounting Officer, Brent will also report 
+to Rick Causey, Executive Vice President and Chief Accounting Officer for 
+Enron Corp.  Reporting to Brent in his new position will be Sheila Glover, 
+business controller for Global Financial Products;  Todd Hall, business 
+controller for Weather; and Scott Earnest, business controller for Global 
+Products and Coal.  In addition, Tom Myers has joined Brent's management team 
+as Director of Accounting.  Brent and his team are responsible for all 
+accounting, risk reporting and trading operations for all the businesses 
+within EGM. 
